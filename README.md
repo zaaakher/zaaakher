@@ -1,10 +1,6 @@
 # Zakher Masri
 Computational Designer from Saudi Arabia
 
-
-## Stats
-
-  ![Zakher's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaaakher&count_private=true&show_icons=true)
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaaakher)](https://git.io/streak-stats)
 
